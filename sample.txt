@@ -1,0 +1,61 @@
+10/18/20, 7:45 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+12/9/20, 8:29 AM - B: Hi bro
+12/9/20, 8:29 AM - B: Have you done with ur project!
+12/9/20, 8:30 AM - A: Not yet bro
+12/9/20, 8:30 AM - A: I was confused about what to do in analysis part
+12/9/20, 8:31 AM - B: He mentioned about Fibonacci heap or Fibonacci sequence!
+12/9/20, 8:31 AM - B: Do you know;
+12/9/20, 8:31 AM - A: So I mailed sir about it and he told me this 
+12/9/20, 8:31 AM - A: Heaps
+12/9/20, 8:32 AM - B: Ok bro
+12/9/20, 8:32 AM - B: What other things you asked?
+12/9/20, 8:32 AM - A: How much of it completed till now
+12/9/20, 8:33 AM - A: I asked sir that do we need to elaborate Time complexity of different operations or compare both heaps sir said just run some input and make graph of it
+12/9/20, 8:34 AM - B: By using code!
+12/9/20, 8:34 AM - A: Yes we need to implement codes of performing this operations
+12/9/20, 8:34 AM - A: Yes
+12/9/20, 8:35 AM - B: Output will be graph!
+12/9/20, 8:35 AM - A: No
+12/9/20, 8:36 AM - A: We have to measure time for different outputs and from that time and no of elements we manually plot the graph
+12/9/20, 8:38 AM - B: What point we need to mention in report!
+12/9/20, 8:39 AM - A: Still not confirm about it I will ask someone and if got something I will share with you
+12/9/20, 8:40 AM - B: Okk bro
+12/10/20, 12:53 PM - B: Bro we have to write 2 program one for Fibonacci and one for binomial right?
+12/10/20, 1:07 PM - A: Yes
+12/10/20, 1:08 PM - B: How to plot graph?
+12/10/20, 1:08 PM - B: Any idea!
+12/10/20, 1:09 PM - A: I think for each heap for every operation graph has to be format no of elements vs time
+12/10/20, 1:10 PM - B: You are including all insertion deletion and min max in one code?
+12/10/20, 1:10 PM - A: I'm thinking of doing like that only
+12/10/20, 1:10 PM - A: Yes
+12/10/20, 1:17 PM - B: After importing code we need to give input
+12/10/20, 1:18 PM - B: Right!
+12/10/20, 1:18 PM - A: No actually for insertion I gave input in  complile time only
+12/10/20, 1:19 PM - A: To measure insertion time at once
+12/10/20, 1:19 PM - B: Ohh is it showing times?
+12/10/20, 1:19 PM - A: And for other operations you can give inputs
+12/10/20, 1:19 PM - A: Yes
+12/10/20, 1:19 PM - B: Okk
+12/10/20, 1:19 PM - B: Bro
+12/10/20, 1:22 PM - B: Bdw what are you thinking about graph plotting!
+12/10/20, 1:24 PM - A: I'm starting to write report tomorrow then once I'm plot the graph I will send you for reference
+12/10/20, 1:26 PM - B: Ok bro
+12/11/20, 2:53 PM - B: Bro are you drawing that graph using pen paper or powerpoint or something else
+12/11/20, 4:42 PM - A: I'm going to use Excel
+12/11/20, 4:43 PM - B: Ohh
+12/11/20, 4:46 PM - A: For each operation and results comparison of analysis using 15, 20, 25 elements for each operation
+12/11/20, 4:52 PM - B: Ur using ubuntu
+12/11/20, 4:53 PM - A: Yes
+12/11/20, 4:55 PM - B: Have you done lab assignment?!!
+12/11/20, 4:56 PM - A: Not all
+12/11/20, 4:59 PM - A: First run both codes for 15,20,25 elements
+12/11/20, 5:00 PM - B: Then?
+12/11/20, 5:00 PM - A: Then perform those 3 operations for both heaps and write down time taken to perform
+12/11/20, 5:01 PM - A: Then make graph for each operation
+12/11/20, 5:01 PM - A: Like 1 for insertion, 1 for deletion, 1 for extract min
+12/11/20, 5:02 PM - B: 3 graph
+12/11/20, 5:02 PM - A: For each heap
+12/11/20, 5:02 PM - B: Hmm
+12/11/20, 5:02 PM - A: Or you can do 1 graph for each heap
+12/11/20, 5:03 PM - B: Okk bro
+
